@@ -12,7 +12,7 @@ ChatterBot==1.0.4
 chatterbot-corpus==1.2.0
 click==8.0.4
 colorama==0.4.4
-comtypes==1.1.12
+comtypes==1.1.11
 cymem==2.0.6
 dj-database-url==0.5.0
 dj-static==0.0.6

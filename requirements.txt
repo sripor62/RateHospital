@@ -45,7 +45,6 @@ Pillow==9.0.0
 Pint==0.19.1
 preshed==3.0.6
 psycopg2==2.8.6
-PyAudio==0.2.11
 PyAutoGUI==0.9.53
 pycparser==2.21
 pydantic==1.8.2
